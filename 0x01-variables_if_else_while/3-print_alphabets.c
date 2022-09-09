@@ -19,12 +19,12 @@ int main(void)
 		x++;
 	}
 
-	char y = 'A';
+	char x = 'A';
 
-	while (y <= 'Z');
+	while (x <= 'Z')
 	{
-		putchar(y);
-		y++;
+		putchar(x);
+		x++;
 	}
 	return (0);
 }
