@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main block
- * 
+ * main - main block 
  * Description: Prints alphabets in lowercase
  * and uppercase
- *
  * Return: 0
  */
 
