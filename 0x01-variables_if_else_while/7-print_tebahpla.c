@@ -4,10 +4,8 @@
 
 /**
  * main - main block
- * 
  * Description: Print the lowercase alpabets
  * in reverse
- *
  * Return: 0
  */
 
