@@ -4,7 +4,10 @@
 
 /**
  * main - main block
- * Description: Get a random number and check if its last digit is greater than 5
+ *
+ * Description: Get a random number and
+ * check if its last digit is greater than 5
+ *
  * Return: 0
  */
 
