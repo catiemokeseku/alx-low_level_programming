@@ -19,12 +19,13 @@ int main(void)
 		x++;
 	}
 
-	char x = 'A';
+	x = 'A';
 
 	while (x <= 'Z')
 	{
 		putchar(x);
 		x++;
 	}
+	putchar('\n');
 	return (0);
 }
