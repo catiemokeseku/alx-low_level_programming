@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isalpha - function
+ * _isalpha - function
  *
  * Description: check is a character is
  * an alphabet
