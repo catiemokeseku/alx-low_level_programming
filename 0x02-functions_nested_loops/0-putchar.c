@@ -14,12 +14,10 @@ int main(void)
 {
 	char p[8] = "_putchar";
 
-	int i = 0;
+	for (i = 0; i < 8; i++)
 
-	while (i < 9)
 	{
 		_putchar(p[i]);
-		i++;
 	}
 	_putchar('\n');
 
