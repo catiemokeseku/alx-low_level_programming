@@ -3,7 +3,7 @@
 /**
  * jack_bauer - function
  *
- * Description: prints every minute 
+ * Description: prints every minute
  * of the day
  *
  * Return: 0
