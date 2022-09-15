@@ -7,7 +7,6 @@
  *
  * @a: first integer
  * @b: second integer
- *
  */
 
 int mul(int a, int b)
