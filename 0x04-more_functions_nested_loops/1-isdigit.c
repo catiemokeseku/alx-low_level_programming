@@ -2,10 +2,8 @@
 
 /**
  * _isdigt - function
- *
  * Description: function to check for digits
  * @c: character to check
- *
  * Return: 0 or 1
  */
 
