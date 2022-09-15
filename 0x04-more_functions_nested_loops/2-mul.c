@@ -2,9 +2,7 @@
 
 /**
  * mul - function
- *
  * Description: multiplies two integers
- *
  * @a: first integer
  * @b: second integer
  */
