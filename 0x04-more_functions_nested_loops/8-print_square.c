@@ -6,15 +6,15 @@
  * @size: The size of the square.
  */
 
-void print_square(int n)
+void print_square(int size)
 {
 
 	int i = 0, a;
 
-	while (i < n && n > 0)
+	while (i < size && size > 0)
 	{
 		a = 0;
-		while (a < n)
+		while (a < size)
 		{
 			_putchar('#');
 			a++;
