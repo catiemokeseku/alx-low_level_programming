@@ -4,7 +4,6 @@
  * print_diagonal - function
  * Description: draws a diagonal on the terminal
  * @n: number of \ to be printed
- * Return: 0
  */
 
 void print_diagonal(int n)
@@ -15,6 +14,7 @@ void print_diagonal(int n)
 	while (i < n && n > 0)
 	{
 		a = 0;
+		
 		while (a < i)
 		{
 			_putchar(' ');
