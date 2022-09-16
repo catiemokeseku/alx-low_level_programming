@@ -6,22 +6,24 @@
  * @size: The size of the square.
  */
 
-void print_square(int size)
+void print_square(int n)
 {
-	int height, width;
 
-	if (size > 0)
+	int i = 0, a;
+
+	while (i < n && n > 0)
 	{
-		for (height = 0; height < size; height++)
+		a = 0;
+		while (a < n)
 		{
-			for (width = 0; width < size; width++)
-				_putchar('#');
-
-			if (height == size - 1)
-				continue;
-			_putchar('\n');
+			_putchar('#');
+			a++;
 		}
-	}
 
-	_putchar('\n');
+		_putchar('\n');
+		i++;
+	}
+	if (i == 0)
+		_putchar('\n');
+
 }
