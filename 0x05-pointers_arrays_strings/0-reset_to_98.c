@@ -1,11 +1,8 @@
 #include "main.h"
 
 /** reset_to_98 - function
- *
- * Description: reser argument to 98
- *
+ * Description: reset argument to 98
  * @n: pointer
- *
  * Return: void
  */
 
