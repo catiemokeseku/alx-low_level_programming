@@ -23,7 +23,7 @@ char *cap_string(char *str)
 		{
 			d = 1;
 		}
-		else 
+		else
 		{
 			for (n = 0; s[n] != '\0'; n++)
 			{
