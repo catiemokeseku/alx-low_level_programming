@@ -8,6 +8,8 @@
  * @s: pointer to area
  * @b: pointet to constant
  * @n: bytes to fill
+ *
+ * Return: string
  */
 
 char *_memset(char *s, char b, unsigned int n)
