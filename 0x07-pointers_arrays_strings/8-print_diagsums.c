@@ -3,7 +3,8 @@
 
 /** print_diagsums - function
  *
- * Description: prints the sum of the diagonals of a square matrix
+ * Description: prints the sum of the diagonals
+ * of a square matrix
  * @a: array
  * @size: size of array
  * Return: void
