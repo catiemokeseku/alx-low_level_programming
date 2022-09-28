@@ -1,6 +1,16 @@
 #include "main.h"
 
 /**
+ * sqrt_recursion - function
+ *
+ * Description: find natural square root
+ *
+ * @n: number
+ *
+ * Return: int
+ */
+
+/**
  * root - function
  *
  * Description: find sqaure root
@@ -27,15 +37,6 @@ int root(int n, int d)
 	}
 }
 
-/**
- * sqrt_recursion - function
- *
- * Description: find natural square root
- *
- * @n: number
- *
- * Return: int
- */
 
 int _sqrt_recursion(int n)
 {
