@@ -10,7 +10,7 @@
  * Return: int
  */
 
-int _sttrlen_recursion(char *s)
+int _strlen_recursion(char *s)
 {
 	if (!*s)
 	{
