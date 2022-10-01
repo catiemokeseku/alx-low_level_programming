@@ -38,11 +38,10 @@ int isInt(char *n)
 int main(int argc, char *argv[])
 {
 	int add = 0;
-	int i;
-
-	for (i = 0; i < argc; i++)
+	
+	while (--argc)
 	{
-		if (isInt(argv[i]))
+		if (isInt(argv[argc]))
 		{
 			printf("Error\n");
 			return (1);
