@@ -18,10 +18,8 @@ int isInt(char *n)
 	while (n[i] != '\0')
 	{
 		if (n[i] < '0' || n[i] > '9')
-		{
 			return (1);
 		i++;
-		}
 	}
 	return (0);
 }
