@@ -12,7 +12,7 @@
  * Return: 0 or 1
  */
 
-int main(int argc, char *argv)
+int main(int argc, char *argv[])
 {
 	if (argc - 1 != 2)
 	{
