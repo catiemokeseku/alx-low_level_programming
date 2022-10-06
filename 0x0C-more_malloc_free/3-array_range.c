@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * array_range - funcction
+ * array_range - function
  *
  * Description: creates an array of integers
  *
