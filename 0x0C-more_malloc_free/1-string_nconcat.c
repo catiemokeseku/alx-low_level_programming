@@ -1,5 +1,5 @@
 #include "main.h"
-#include <std;ib.h>
+#include <stdlib.h>
 
 /**
  * string_nconcat - function
