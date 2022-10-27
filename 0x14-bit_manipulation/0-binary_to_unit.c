@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 
 /**
- * _strlen - find the length of a string
- *
+ * _strlen - function
+ * Description: find the length of a string
  * @s: pointer to the string to check
  *
  * Return: void
@@ -23,7 +23,8 @@ int _strlen(const char *s)
 }
 
 /**
- * binary_to_uint - converts a binary number to an unsigned int
+ * binary_to_uint - function
+ * Description: converts a binary number to an unsigned int
  * @b: binary number
  *
  * Return: 0 or converted number
