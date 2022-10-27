@@ -1,14 +1,12 @@
 #include "main.h"
 
 /**
- * get_bit - function
+ * get_bit - returns the value of a bit at a given
+ * index.
+ * @n: unsigned long int input.
+ * @index: index of the bit.
  *
- * Description: gets bit on index `index`
- *
- * @n: decimal number
- * @index: index of the bit
- *
- * Return: the bit found
+ * Return: value of the bit.
  */
 
 int get_bit(unsigned long int n, unsigned int index)
@@ -28,3 +26,4 @@ int get_bit(unsigned long int n, unsigned int index)
 
 	return (-1)
 }
+
